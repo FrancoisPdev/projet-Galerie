@@ -2,19 +2,19 @@
 
 
 # Méthode de travail 
--définition des postes pour chaque membre de l'équipe ( Product Owner /Chef de projet /Lead technique)
+- Définition des postes pour chaque membre de l'équipe ( Product Owner /Chef de projet /Lead technique)
 
--Organisation en méthodes agiles 
+- Organisation en méthodes agiles 
 
--Cahier des charges
+- Cahier des charges
 
--MindMapping
+- MindMapping
 
--UseCase
+- UseCase
 
--UML
+- UML
 
--Product back-log
+- Product back-log
 ***
 
 # Workflow
@@ -24,42 +24,42 @@
 # Choix des technologies à utiliser pour les projet:
 
 # Pour le back-end
--Nodes js
+- Nodes js
 
--PostgreSql (Lite)3
+- PostgreSql (Lite)3
 
--Seequilize 
+- Seequilize 
 
 
--Express
+- Express
 
--Axios
+- Axios
 
--lodash 
+- lodash 
 
 ***
 # Pour le front-end
--Type Script
+- Type Script
 
--Nuxt Js
+- Nuxt Js
 
--Buefy && vuetify 
+- Buefy && vuetify 
 
--Sass
+- Sass
 
 ***
 # Outils de communications
--Github (issues/milestones)
+- Github (issues/milestones)
 
--Discord
+- Discord
 
--Mattermost
+- Mattermost
 
--Trello
+- Trello
 
 ***
 # Outils de test unitaire
--Mocha && Jest
+- Mocha && Jest
 
 
 
