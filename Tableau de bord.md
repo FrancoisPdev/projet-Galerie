@@ -47,11 +47,13 @@
 
 ***
 # Outils de communications
+-Github (issues/milles tones)
+
 -Discord
 
 -Mattermost
 
 -Trello
 
--Github
+
 
