@@ -18,7 +18,7 @@
 ***
 
 # Workflow
--Git-flow
+- Git-flow
 ***
 
 # Choix des technologies à utiliser pour les projet:
