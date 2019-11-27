@@ -35,6 +35,8 @@
 
 -Axios
 
+-lodash 
+
 ***
 # Pour le front-end
 -Type Script
@@ -54,6 +56,12 @@
 -Mattermost
 
 -Trello
+
+***
+# Outils de test unitaire
+-Mocha && Jest
+
+-
 
 
 
