@@ -47,7 +47,7 @@
 
 ***
 # Outils de communications
--Github (issues/milles tones)
+-Github (issues/milestones)
 
 -Discord
 
