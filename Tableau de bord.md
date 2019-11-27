@@ -41,7 +41,7 @@
 
 -Nuxt Js
 
--Buefy
+-Buefy && vuetify 
 
 -Sass
 
