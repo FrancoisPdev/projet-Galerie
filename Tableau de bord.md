@@ -30,7 +30,6 @@
 
 -Seequilize 
 
--Axios
 
 -Express
 
