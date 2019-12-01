@@ -13,15 +13,21 @@ Pour ce , elle a besoin d'un site internet afin de communiquer auprès de parten
 Dans un second temps, le contenu des statuts de l'association vous sera transmis afin de cerner davantage le projet et de réaliser un site le plus en adéquation possible.
 
 ***
-# Développement 
+# Objectif
+principales vocations du site :
 
-* une rubrique style un forum, afin de permettre aux personnes intéressées par l'art de lancer un sujet, partager leurs expériences.
+* promouvoir l'art
+* blog
 
-* une rubrique permettant de communiquer sur ces événements
+principaux résultats attendus :
 
-* une présentation de l'association afin de trouver des mécénats et des partenariats
+* faire decouvrir l'art aux publics
+* faire rencontrer les publics curieux, amateur, pro. etc...
 
-###### Bien d'autres feature apparaîtrons au fur et à mesure de la construction.
+***
+# A qui s’adresse le site – Les cibles
+
+Il s'adresse à tout les publics, le but est de faire decouvrir les artistes, peintres, oeuvres, avec qui l'association travail 
 
 ***
 # Arborescence – Plan du site
@@ -52,6 +58,36 @@ Dans un second temps, le contenu des statuts de l'association vous sera transmis
 |Plan d'acces      | page d'acces à l'association | Bien connaitre le plan du site<br /> est essentiel car l'association est difficile à trouver <br /> elle est implémenté au milieu de plusieurs petites structures|
 |Espace livre d'or | page de témoignage | recueillir les témoignages des utilisateurs.rices<br /> pour encourager les activités du salon d'art et les activités proposés par l'association|
 
+
+***
+# Développement 
+
+* une rubrique style un forum, afin de permettre aux personnes intéressées par l'art de lancer un sujet, partager leurs expériences.
+
+* une rubrique permettant de communiquer sur ces événements
+
+* une présentation de l'association afin de trouver des mécénats et des partenariats
+
+###### Bien d'autres feature apparaîtrons au fur et à mesure de la construction.
+
+***
+# Dépôt du nom de domaine et adresses mail
+
+le client s'en charge
+
+***
+# Hébergement
+
+le client s'en charge 
+
+***
+# Référencement
+
+* SEO
+
+# Mises à jour
+
+* Un dev s'en chargera
 
 ***
 # Choix finaux
