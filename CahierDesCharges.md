@@ -31,32 +31,32 @@ Il s'adresse à tout les publics, le but est de faire decouvrir les artistes, pe
 
 ***
 # Arborescence – Plan du site
-* Espace Acceuil
+* Rubrique Acceuil
   * Citations artiste connu
     * François Chang
-* Espace Contact
-* Espace Agenda
-* Espace Article (Blog)
-* Espace Histoire
-  * Ancienne blanchisserie,
-  * Evolution du lieu,
-  * Histoire du lieu
+* Rubrique Contact
+* Rubrique Agenda
+* Rubrique Article (Blog)
+* Rubrique A propos
+  * Histoire du lieu,
+    * Ancienne blanchisserie,
+    * Evolution du lieu,
 * Plan d'acces
   * Maps,
   * Photos
-* Espace livre d'or
+* Rubrique livre d'or
 
 ***
 # Fonctionnalités
 |NOM RUBRIQUE      | FONCTIONNALITE       | DESCRIPTIF       |
 | :--------------- | :------------------: | ---------------: |
-|Espace Accueil    | page d'accueil principale |Le but est d'accuellir tous utilisateurs<br /> et de les ammener sur les differentes pages du site|
-|Espace Contact    | avoir de plus amples<br /> informations | Le but est d'ecouter les feedbacks<br />  et repondre auxdifferentes questions / problemes<br />  reconnus par les utilisateurs.rices|
-|Espace Agenda     |connaitre les dates proposées | Informer les différent.es utilisateurs.rices<br />  sur les nouvelles dates <br /> qui seront publiés par l'association|
-|Espace Article    | blog d'information | Le but du blog est de faire connaitre<br /> les actualités de l'association et de partager d'autres informations sur le monde de l'art|
-|Espace Histoire   | page racontant le vie du lieu | Faire connaitre l'histoire du lieu<br />  aux utilisateurs.rices est une part importante pour l'association<br />  et egalement une source de richesse pour les publics non-avertis|
+|Rubrique Accueil    | page d'accueil principale |Le but est d'accuellir tous utilisateurs<br /> et de les ammener sur les differentes pages du site|
+|Rubrique Contact    | avoir de plus amples<br /> informations | Le but est d'ecouter les feedbacks<br />  et repondre auxdifferentes questions / problemes<br />  reconnus par les utilisateurs.rices|
+|Rubrique Agenda     |connaitre les dates proposées | Informer les différent.es utilisateurs.rices<br />  sur les nouvelles dates <br /> qui seront publiés par l'association|
+|Rubrique Article    | blog d'information | Le but du blog est de faire connaitre<br /> les actualités de l'association et de partager d'autres informations sur le monde de l'art|
+|Rubrique Histoire   | page racontant le vie du lieu | Faire connaitre l'histoire du lieu<br />  aux utilisateurs.rices est une part importante pour l'association<br />  et egalement une source de richesse pour les publics non-avertis|
 |Plan d'acces      | page d'acces à l'association | Bien connaitre le plan du site<br /> est essentiel car l'association est difficile à trouver <br /> elle est implémenté au milieu de plusieurs petites structures|
-|Espace livre d'or | page de témoignage | recueillir les témoignages des utilisateurs.rices<br /> pour encourager les activités du salon d'art et les activités proposés par l'association|
+|Rubrique livre d'or | page de témoignage | recueillir les témoignages des utilisateurs.rices<br /> pour encourager les activités du salon d'art et les activités proposés par l'association|
 
 
 ***
@@ -84,10 +84,12 @@ le client s'en charge
 # Référencement
 
 * SEO
+  * SEA
+* SMO
 
 # Mises à jour
 
-* Un dev s'en chargera
+* Un dévelopeur se chargera d'effectuer les MàJ
 
 ***
 # Choix finaux
