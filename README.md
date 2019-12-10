@@ -1,4 +1,4 @@
-# projet-Galerie # Tableau de bord 
+# projet-Galerie 
 
 
 # Méthode de travail 
