@@ -59,5 +59,5 @@
 
 ***
 # Outils de test unitaire
-- Mocha && Jest
+- Mocha 
 
